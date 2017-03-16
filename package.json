@@ -1,0 +1,20 @@
+{
+  "name": "bangazon-cli-ordering-system-bangazonianboyz",
+  "version": "1.0.0",
+  "description": "## The Command Line Ordering System",
+  "main": "main.js",
+  "scripts": {
+    "test": "mocha -R nyan --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nss-day-cohort-17/bangazon-cli-ordering-system-bangazonianboyz.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nss-day-cohort-17/bangazon-cli-ordering-system-bangazonianboyz/issues"
+  },
+  "homepage": "https://github.com/nss-day-cohort-17/bangazon-cli-ordering-system-bangazonianboyz#readme"
+}
