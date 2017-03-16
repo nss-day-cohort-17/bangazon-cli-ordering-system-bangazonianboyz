@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/nss-day-cohort-17/bangazon-cli-ordering-system-bangazonianboyz/issues"
   },
-  "homepage": "https://github.com/nss-day-cohort-17/bangazon-cli-ordering-system-bangazonianboyz#readme"
+  "homepage": "https://github.com/nss-day-cohort-17/bangazon-cli-ordering-system-bangazonianboyz#readme",
+  "dependencies": {
+    "cli-prompt": "^0.6.0"
+  }
 }
