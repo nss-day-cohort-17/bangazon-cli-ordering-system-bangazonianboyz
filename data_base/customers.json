@@ -1,0 +1,11 @@
+[{"id":1,"customer_name":"George Andrews","street_address":"1359 Portage Crossing","city":"Midland","state":"MI","postal_code":"48670","phone_number":"1-(989)264-5636"},
+{"id":2,"customer_name":"Jessica Arnold","street_address":"13 Forest Run Terrace","city":"Lubbock","state":"TX","postal_code":"79452","phone_number":"1-(806)980-5140"},
+{"id":3,"customer_name":"Marilyn Owens","street_address":"3 Harper Center","city":"Houston","state":"TX","postal_code":"77010","phone_number":"1-(713)393-0607"},
+{"id":4,"customer_name":"George Wheeler","street_address":"0128 Veith Terrace","city":"Topeka","state":"KS","postal_code":"66667","phone_number":"1-(785)654-8508"},
+{"id":5,"customer_name":"Paula Scott","street_address":"76 Coolidge Crossing","city":"Atlanta","state":"GA","postal_code":"30323","phone_number":"1-(678)720-7266"},
+{"id":6,"customer_name":"Victor Sims","street_address":"660 Transport Hill","city":"Fort Worth","state":"TX","postal_code":"76192","phone_number":"1-(682)132-6044"},
+{"id":7,"customer_name":"Judy Hicks","street_address":"6 Carey Pass","city":"Sandy","state":"UT","postal_code":"84093","phone_number":"1-(801)606-5679"},
+{"id":8,"customer_name":"Pamela Hughes","street_address":"559 Sage Drive","city":"Eugene","state":"OR","postal_code":"97405","phone_number":"1-(541)875-0344"},
+{"id":9,"customer_name":"Lisa Anderson","street_address":"8590 Moose Junction","city":"Jamaica","state":"NY","postal_code":"11470","phone_number":"1-(917)590-1256"},
+{"id":10,"customer_name":"Kathleen Freeman","street_address":"09950 Novick Drive","city":"Charlotte","state":"NC","postal_code":"28225","phone_number":"1-(704)451-4506"},
+{"id":11,"customer_name":"Donald Wilson","street_address":"2725 Roth Center","city":"Memphis","state":"TN","postal_code":"38131","phone_number":"1-(901)730-7576"}]
