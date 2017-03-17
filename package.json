@@ -18,9 +18,14 @@
   },
   "homepage": "https://github.com/nss-day-cohort-17/bangazon-cli-ordering-system-bangazonianboyz#readme",
   "dependencies": {
+    "3": "^1.0.1",
     "chai": "^3.5.0",
     "cli-prompt": "^0.6.0",
     "mocha": "^3.2.0",
+<<<<<<< HEAD
+=======
+    "sqlite": "^2.3.0",
+>>>>>>> 5ad6694bd7f25084e556cf4472ab632d5daf557f
     "sqlite3": "^3.1.8"
   }
 }
