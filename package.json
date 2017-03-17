@@ -19,6 +19,7 @@
   "homepage": "https://github.com/nss-day-cohort-17/bangazon-cli-ordering-system-bangazonianboyz#readme",
   "dependencies": {
     "chai": "^3.5.0",
-    "cli-prompt": "^0.6.0"
+    "cli-prompt": "^0.6.0",
+    "mocha": "^3.2.0"
   }
 }
