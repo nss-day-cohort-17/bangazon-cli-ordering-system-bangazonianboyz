@@ -1,5 +1,5 @@
 // Create Customer
-// Choose active customer
+// Choose active customer - prompt.password perhaps?
 // Create Payment Option
 // Add Product to an Order
 // Complete an Order
