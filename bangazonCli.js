@@ -1,3 +1,5 @@
+//will be deleted; just using as a workspace
+
 var prompt = require('cli-prompt');
 
 prompt('Please enter your first name: ', function (val) {
