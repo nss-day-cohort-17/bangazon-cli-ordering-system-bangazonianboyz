@@ -31,7 +31,17 @@ describe('customers', () => {
         it('should return specific phone number', () => {
             let specPhoneNum = customerInfo("phone_number")
         })
+    })
 
+    describe('populateCustomers', () => {
+        it('should return string of info', () => {
         
+        })
+    })
+
+    describe('errorHandler', () => {
+        it('should return string for error message', () => {
+
+        })
     })
 })
