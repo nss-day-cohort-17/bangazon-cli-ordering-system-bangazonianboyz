@@ -1,5 +1,11 @@
-// const { Database } = require('sqlite3').verbose();
+const { assert: {equal, isTrue} } = require('chai')
+const { getProduct } = require('../lib/products')
 
-// const db = new Database('bangazon.sqlite', () => console.log('Connected!'));
-
-
+describe('products', () => {
+    describe('getProduct', () => {
+        it('should return array', () => {
+            let result = getProduct()
+            isTrue(Array.isArray(result))
+        })
+    })
+})
