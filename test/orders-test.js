@@ -16,7 +16,7 @@ describe('orders', () => {
 
     describe('populateOrders', () => {
         it('should return order string', () => {
-            
+
         })
     })
 })
