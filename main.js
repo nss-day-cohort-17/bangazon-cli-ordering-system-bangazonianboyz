@@ -18,3 +18,5 @@ module.exports.displayMainMenu = () => {
 
 	module.exports.mainMenu();
 }
+
+module.exports.mainMenu = () => {}
