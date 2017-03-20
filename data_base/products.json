@@ -2,91 +2,91 @@
   {
     "product_id":1,
     "product_name":"Zelda: Breath of the Wild",
-    "product_price":"$55.79"
+    "product_price":55.79
   },
   {
     "product_id":2,
     "product_name":"Ghost Recon",
-    "product_price":"$49.17"
+    "product_price":49.17
   },
   {
     "product_id":3,
     "product_name":"Horizon: Zero Dawn",
-    "product_price":"$20.67"
+    "product_price":20.67
   },
   {
     "product_id":4,
     "product_name":"Resident Evil 7",
-    "product_price":"$52.52"
+    "product_price":52.52
   },
   {
     "product_id":5,
     "product_name":"Battlefield 1",
-    "product_price":"$36.57"
+    "product_price":36.57
   },
   {
     "product_id":6,
     "product_name":"Tekken 7",
-    "product_price":"$19.54"
+    "product_price":19.54
   },
   {
     "product_id":7,
     "product_name":"Kingdom Hearts 2.5",
-    "product_price":"$51.13"
+    "product_price":51.13
   },
   {
     "product_id":8,
     "product_name":"Injustice 2",
-    "product_price":"$16.69"
+    "product_price":16.69
   },
   {
     "product_id":9,
     "product_name":"Grand Theft Auto 5",
-    "product_price":"$17.09"
+    "product_price":17.09
   },
   {
     "product_id":10,
     "product_name":"Skyrim",
-    "product_price":"$40.03"
+    "product_price":40.03
   },
   {
     "product_id":11,
     "product_name":"Mario Kart 8",
-    "product_price":"$51.92"
+    "product_price":51.92
   },
   {
     "product_id":12,
     "product_name":"MLB The Show 17",
-    "product_price":"$43.62"
+    "product_price":43.62
   },
   {
     "product_id":13,
     "product_name":"Red Dead Redemption 2",
-    "product_price":"$47.27"
+    "product_price":47.27
   },
   {
     "product_id":14,
     "product_name":"Madden 17",
-    "product_price":"$40.93"
+    "product_price":40.93
   },
   {
     "product_id":15,
     "product_name":"Fallout 4",
-    "product_price":"$19.27"
+    "product_price":19.27
   },
   {
     "product_id":16,
     "product_name":"Gears of War 4",
-    "product_price":"$49.79"
+    "product_price":49.79
   },
   {
     "product_id":17,
     "product_name":"Dishonored 2",
-    "product_price":"$52.93"
+    "product_price":52.93
   },
   {
     "product_id":18,
     "product_name":"Overwatch",
-    "product_price":"$52.34"
+    "product_price":52.34
   }
 ]
