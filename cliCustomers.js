@@ -11,6 +11,7 @@ const { argv: [,,...args] } = process
       },
       password: {
         hidden: true
+        // required: false
       }
     }
   };
