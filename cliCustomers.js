@@ -9,11 +9,25 @@ const { argv: [,,...args] } = process
         message: 'Name must be only letters, spaces, or dashes',
         required: true
       },
-      password: {
-        hidden: true
-        // required: false
-      }
-    }
+      address: {
+        pattern: /^[a-zA-Z\s\-]+$/,
+        message: 'Name must be only letters, spaces, or dashes',
+        required: true
+      },
+      city: {
+        pattern: /^[a-zA-Z\s\-]+$/,
+        message: 'Name must be only letters, spaces, or dashes',
+        required: true
+      },
+      state: {
+        pattern: /^[a-zA-Z\s\-]+$/,
+        message: 'Name must be only letters, spaces, or dashes',
+        required: true
+      },
+      zip_code: {
+        pattern: /^[a-zA-Z\s\-]+$/,
+        message: 'Name must be only letters, spaces, or dashes',
+        required: true
   };
 
 // require prompt
