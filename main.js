@@ -2,7 +2,7 @@
 
 //get user prompts
 const prompt = require('prompt')
-// const { pageChange } = require('./pageChange.js')
+// const { changePage } = require('./changePage.js')
 
 module.exports.displayMainMenu = () => {
 	  console.log(` *********************************************************
