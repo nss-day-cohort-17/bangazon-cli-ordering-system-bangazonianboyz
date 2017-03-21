@@ -45,7 +45,7 @@
     "order_id":8,
     "customer_id":8,
     "payment_option_id":8,
-    "paid_offf":"True"
+    "paid_off":"True"
   },
   {
     "order_id":9,
