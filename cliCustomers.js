@@ -24,11 +24,11 @@ const { argv: [,,...args] } = process
         message: 'Name must be only letters, spaces, or dashes',
         required: true
       },
-      zip_code: {
-        pattern: /^[a-zA-Z\s\-]+$/,
-        message: 'Name must be only letters, spaces, or dashes',
-        required: true
-  };
+      // zip_code: {
+      //   pattern: /^[a-zA-Z\s\-]+$/,
+      //   message: 'Name must be only letters, spaces, or dashes',
+      //   required: true
+  }
 
 // require prompt
 var prompt = require('prompt')
