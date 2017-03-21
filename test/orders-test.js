@@ -13,4 +13,10 @@ describe('orders', () => {
             isFalse(orderInfo, 'Not fully paid')
         })
     })
+
+    describe('populateOrders', () => {
+        it('should return order string', () => {
+
+        })
+    })
 })
